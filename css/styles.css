@@ -1,9 +1,10 @@
+/* Normalize */
 * {
     margin: 0px;
     padding: 0px;
     text-align: center;    
 }
-
+/* estilos requeridos */
 body {
     background-color: #F6F1F1;
 }
